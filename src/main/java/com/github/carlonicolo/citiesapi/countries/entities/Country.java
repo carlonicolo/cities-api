@@ -1,4 +1,4 @@
-package com.github.carlonicolo.citiesapi.countries;
+package com.github.carlonicolo.citiesapi.countries.entities;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
